@@ -1,9 +1,6 @@
-# Burgundy Glitter Almond Nails Landing Page
+# Burgundy Glitter Almond Nails Landing Page (CTA: amzn.to/3We06qi)
 
 Minimal Next.js + Tailwind landing page for burgundy glitter almond press-on nails.
-
-## CTA
-https://amzn.to/485c6la
 
 ## Deploy
 1. Unzip this package.

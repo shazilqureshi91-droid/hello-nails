@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className="mt-8 flex flex-col items-center gap-4">
           <a
-            href="https://amzn.to/485c6la"
+            href="https://amzn.to/3We06qi"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary w-full md:w-auto text-center"
